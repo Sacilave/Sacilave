@@ -1,14 +1,14 @@
-# Welcome to my profile (=•ω＜=)⌒☆
+## Welcome to my profile (=•ω＜=)⌒☆
 
-### LANG || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
+LANG || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
 
-### MAJOR || VR / C# / UnityEngine / Game Development
+MAJOR || VR / C# / UnityEngine / Game Development
 
-### MINOR || Python / Front-End Web / C++ / Linux / Tech Industries
+MINOR || Python / Front-End Web / C++ / Linux / Tech Industries
 
-### REP || Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
+REP || Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
 
-## About Me... (。・ω・。)
+### About Me... (。・ω・。)
 
 Hi there, U can call me **Lave** or **Meowu** ( pronounce like a meow plus a U in word Ukraine I guess? )
 
@@ -18,6 +18,6 @@ Depression, happyness, love ... each of the emotions occupied me in my different
 
 All of them made me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
 
-## Other Social Links
+### Other Social Links
 
 [Tg](https://t.me/Sacilave) &emsp; [Dc](https://discord.com/users/711912036950474862) &emsp; [Twitch](https://www.twitch.tv/sacilave) &emsp; [Steam](https://steamcommunity.com/id/sacilave/) &emsp; [Twitter](https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29)
