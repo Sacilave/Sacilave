@@ -23,9 +23,5 @@ All of them made me a empthetic, kind, cute person. Feel free to make friends wi
 [Tg](https://t.me/Sacilave) &emsp; [Dc](https://discord.com/users/711912036950474862) &emsp; [Twitch](https://www.twitch.tv/sacilave) &emsp; [Steam](https://steamcommunity.com/id/sacilave/) &emsp; [Twitter](https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29)
 
 ### Stats
-<a href="https://github.com/sacilave/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sacilave&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/sacilave/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sacilave&repo=convoychat" />
-</a>
+![Lave's Github Stats](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
