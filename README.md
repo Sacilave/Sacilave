@@ -20,8 +20,11 @@ All of them made me a empthetic, kind, cute person. Feel free to make friends wi
 
 ### Other Social Links
 
-[Tg](https://t.me/Sacilave) &emsp; [Dc](https://discord.com/users/711912036950474862) &emsp; [Twitch](https://www.twitch.tv/sacilave) &emsp; [Steam](https://steamcommunity.com/id/sacilave/) &emsp; [Twitter](https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29)
+[![Tg](https://t.me/Sacilave) &emsp; [Dc](https://discord.com/users/711912036950474862) &emsp; [Twitch](https://www.twitch.tv/sacilave) &emsp; [Steam](https://steamcommunity.com/id/sacilave/) &emsp; [Twitter](https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29)](https://github.com/Sacilave/sacilave.github.io
+)
 
 ![Lave's Github Stats](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&theme=radical)
 &emsp;
-[![Top Langs](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Sacilave/sacilave.github.io
+)https://github.com/Sacilave/sacilave.github.io
+)
