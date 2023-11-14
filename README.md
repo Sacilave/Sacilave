@@ -22,4 +22,4 @@ All of them made me a empthetic, kind, cute person. Feel free to make friends wi
 
 [Tg](https://t.me/Sacilave) &emsp; [Dc](https://discord.com/users/711912036950474862) &emsp; [Twitch](https://www.twitch.tv/sacilave) &emsp; [Steam](https://steamcommunity.com/id/sacilave/) &emsp; [Twitter](https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29)
 
-![Lave's Github Stats](github-readme-stats-amber-pi-37.vercel.app)
+![Lave's Github Stats](https://github-readme-stats-amber-pi-37.vercel.app)
