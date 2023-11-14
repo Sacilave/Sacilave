@@ -24,4 +24,4 @@ All of them made me a empthetic, kind, cute person. Feel free to make friends wi
 
 ### Stats
 ![Lave's Github Stats](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
