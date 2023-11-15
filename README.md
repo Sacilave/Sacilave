@@ -1,17 +1,8 @@
-<style>
-    name {
-        color: #FFF3F8;
-    }
-    @font-face {
-    font-family:comicNeue;
-    src:url("ComicNeue-Bold.ttf")；
-    }
-</style>
-
 <dev align=center style="color: #FFDEEE; font-family: consolas;">
 
-<h2 style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
+<h2 align=center style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
 
+<p align=center>
 LANG || 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
 
 MAJOR || VR / C# / UnityEngine / Game Development
@@ -19,9 +10,12 @@ MAJOR || VR / C# / UnityEngine / Game Development
 MINOR || Python / Front-End Web / C++ / Linux / Tech Industries  
 
 REP || Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
+</p>
 
-<h3 style="color: #FFA3B4">About Me... (。・ω・。)</h3>
 
+<h3 align=center style="color: #FFA3B4">About Me... (。・ω・。)</h3>
+
+<p align=center>
 Hi there, U can call me <i><b><name>Lave</name></b></i> or <i><b><name>Meowu</name></b></i> ( pronounce like a meow plus a U in word Ukraine I guess? )
 
 I suffered. I hated. I was hated. I loved. I was loved. I'm in love. Many different phases shaped me.
@@ -29,8 +23,9 @@ I suffered. I hated. I was hated. I loved. I was loved. I'm in love. Many differ
 Depression, happyness, love ... each of the emotions occupied me in my different ages ＞︿＜
 
 All of them made me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
+</p>
 
-<h3 style="color: #FFA3B4">Other Social Links</h3>
+<h3 align=center style="color: #FFA3B4">Other Social Links</h3>
 
 <a align=center href="https://sacilave.github.io/" style="color: #E7B9ED">HOME</a>&emsp;&emsp;
 <a align=center href="https://t.me/Sacilave" style="color: #E7B9ED">Tg</a>&emsp;&emsp;
