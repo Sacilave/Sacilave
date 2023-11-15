@@ -1,4 +1,5 @@
-<div align=center style="color: #FFDEEE; font-family: Consolas;">
+<div align=center style="color: #FFDEEE; font-family: consolas;">
+
 
 <h2 align=center style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
 
