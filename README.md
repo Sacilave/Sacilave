@@ -4,13 +4,13 @@
 <h2 align=center style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
 
 <p>
-LANG:&emsp;𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
+LANG : &nbsp; 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
   
-MAJOR:&emsp;VR / C# / UnityEngine / Game Development
+MAJOR : &nbsp; VR / C# / UnityEngine / Game Development
 
-MINOR:&emsp;Python / Front-End Web / C++ / Linux / Tech Industries  
+MINOR : &nbsp; Python / Front-End Web / C++ / Linux / Tech Industries  
 
-REP:&emsp;Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
+REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
 </p>
 
 
