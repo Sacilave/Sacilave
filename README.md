@@ -17,17 +17,16 @@ REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
 <h3 align=center style="color: #FFA3B4">About Me... (。・ω・。)</h3>
 
 <p>
-Hi there, U can call me <i><b><name>Lave</name></b></i> or <i><b><name>Meowu</name></b></i> ( pronounce like a meow plus a U in word Ukraine I guess? )
+Hi there, u can call me <i><b><name>Lave</name></b></i> or <i><b><name>Meowu</name></b></i> ( pronounce like a meow plus a U in word Ukraine I guess? )
   
 I suffered. I hated. I was hated. I loved. I was loved. I'm in love. Many different phases shaped me.
 
 Depression, happyness, love ... each of the emotions occupied me in my different ages ＞︿＜
 
-All of them made me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
+Made me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
 </p>
 
 <h3 style="color: #FFA3B4">Other Social Links</h3>
-
 
 <div >
   <a align=center href="https://sacilave.github.io/" style="color: #E7B9ED">HOME</a>&emsp;&emsp;
