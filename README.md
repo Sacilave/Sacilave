@@ -23,7 +23,7 @@ I suffered. I hated. I was hated. I loved. I was loved. I'm in love. Many differ
 
 Depression, happyness, love ... each of the emotions occupied me in my different ages ＞︿＜
 
-Made me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
+Shaped me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
 </p>
 
 <h3 style="color: #FFA3B4">Other Social Links</h3>
