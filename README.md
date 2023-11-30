@@ -34,7 +34,7 @@ Shaped me a empthetic, kind, cute person. Feel free to make friends with me then
   <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">Dc</a>&emsp;&emsp;
   <a align=center href="https://www.twitch.tv/sacilave" style="color: #E7B9ED">Twitch</a>&emsp;&emsp;
   <a align=center href="https://steamcommunity.com/id/sacilave/" style="color: #E7B9ED">Steam</a>&emsp;&emsp;
-  <a align=center href="https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29" style="color: #E7B9ED">Twitter</a>
+  <a align=center href="https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29" style="color: #E7B9ED">Twitter</a>&emsp;
   <a align=center href="https://www.facebook.com/sacilave.black/" style="color: #E7B9ED">FB</a>
 </div>&emsp;&emsp;
 
