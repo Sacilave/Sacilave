@@ -10,7 +10,7 @@ MAJOR : &nbsp; VR / C# / UnityEngine / Game Development
 
 MINOR : &nbsp; Python / Front-End Web / C++ / Linux / Tech Industries  
 
-REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG
+REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG / INFP-T
 </p>
 
 
