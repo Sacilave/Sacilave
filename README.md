@@ -30,8 +30,8 @@ Shaped me a empthetic, kind, cute person. Feel free to make friends with me then
 
 <div >
   <a align=center href="https://sacilave.github.io/" style="color: #E7B9ED">HOME</a>&emsp;&emsp;
-  <a align=center href="https://t.me/Sacilave" style="color: #E7B9ED">Tg</a>&emsp;&emsp;
-  <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">Dc</a>&emsp;&emsp;
+  <a align=center href="https://t.me/Sacilave" style="color: #E7B9ED">TG</a>&emsp;&emsp;
+  <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">DC</a>&emsp;&emsp;
   <a align=center href="https://www.twitch.tv/sacilave" style="color: #E7B9ED">Twitch</a>&emsp;&emsp;
   <a align=center href="https://steamcommunity.com/id/sacilave/" style="color: #E7B9ED">Steam</a>&emsp;&emsp;
   <a align=center href="https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29" style="color: #E7B9ED">Twitter</a>&emsp;
