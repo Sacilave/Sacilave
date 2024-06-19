@@ -19,7 +19,7 @@ REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG / INFP-T
 <p>
 Hi there, u can call me <i><b><name>Lave</name></b></i> or <i><b><name>Meowu</name></b></i> ( pronounce like a meow plus a U in word Ukraine I guess? )
   
-I suffered. I hated. I was hated. I loved. I was loved. I'm in love. Many different phases shaped me.
+I suffered, been hated, loved, been loved. I'm in love. Many different phases shaped me.
 
 Depression, happyness, love ... each of the emotions occupied me in my different ages ＞︿＜
 
