@@ -17,10 +17,8 @@ REP : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG / INFP-T
 <h3 align=center style="color: #FFA3B4">About Me... (。・ω・。)</h3>
 
 <p>
-Hi there, u can call me <i><b><name>Lave</name></b></i> or <i><b><name>Meowu</name></b></i> ( pronounce like a meow plus a U in word Ukraine I guess? )
+Hi there, u can call me <i><b><name>Lave</name></b></i> 
   
-I suffered, been hated, loved, been loved. I'm in love. Many different phases shaped me.
-
 Depression, happyness, love ... each of the emotions occupied me in my different ages ＞︿＜
 
 Shaped me a empthetic, kind, cute person. Feel free to make friends with me then (´▽｀)
@@ -30,11 +28,11 @@ Shaped me a empthetic, kind, cute person. Feel free to make friends with me then
 
 <div >
   <a align=center href="https://sacilave.github.io/" style="color: #E7B9ED">HOME</a>&emsp;&emsp;
-  <a align=center href="https://t.me/Sacilave" style="color: #E7B9ED">TG</a>&emsp;&emsp;
+  <a align=center href="https://t.me/Evathef" style="color: #E7B9ED">TG</a>&emsp;&emsp;
   <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">DC</a>&emsp;&emsp;
   <a align=center href="https://www.twitch.tv/sacilave" style="color: #E7B9ED">Twitch</a>&emsp;&emsp;
   <a align=center href="https://steamcommunity.com/id/sacilave/" style="color: #E7B9ED">Steam</a>&emsp;&emsp;
-  <a align=center href="https://www.google.com.hk/search?q=Ask+me+%28+%E2%97%A1%E2%80%BF%E2%97%A1%29" style="color: #E7B9ED">Twitter</a>&emsp;
+  <a align=center href="https://x.com/Sacilave2" style="color: #E7B9ED">Twitter</a>&emsp;
   <a align=center href="https://www.facebook.com/sacilave.black/" style="color: #E7B9ED">FB</a>
 </div>&emsp;&emsp;
 
