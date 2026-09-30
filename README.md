@@ -3,13 +3,28 @@
 
 <h2 align=center style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FFA3B4&center=true&vCenter=true&width=500&lines=GameDev+%2F+Unity+%26+C%23+Developer;Flutter+App+%2F+Web+%2F+Product+%2F+VR;Tech+Otaku+%2F+Cutie+Lover;Feel+free+to+make+friends+with+me+(%C2%B4%E2%96%BD%EF%BD%80)" alt="Typing SVG" />
+</p>
+
 <p>
 Language : &nbsp; 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
-  
-Major : &nbsp; C# / UnityEngine / GameDev / Flutter App / Web / Product / VR
+</p>
 
-Also : &nbsp; Python / C++ / Linux /
+<p>
+Core Stack : &nbsp;
+<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+<br>
+Familiar : &nbsp;
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
+<p>
 Tags : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG / INFP-T
 </p>
 
@@ -32,10 +47,19 @@ Feel free to make friends with me then (´▽｀)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Sacilave2)
 [![Email](https://img.shields.io/badge/sacilave@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sacilave@gmail.com)
 
-<table align=center><tr>
-<td><a align="center" href="https://sacilave.github.io/"> <img height="180" src="https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&theme=radical" /> </div>
-</td>
-<td><a align="center" href="https://sacilave.github.io/"> <img height="180" src="https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact&theme=radical" /> </div></td>
-</tr></table>
+<table align="center">
+  <tr>
+    <td>
+      <a align="center" href="https://sacilave.github.io/">
+        <img height="180" src="https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&bg_color=1a1625&title_color=FFA3B4&text_color=FFDEEE&icon_color=FFA3B4&border_color=FFA3B4" alt="Sacilave's GitHub Stats" />
+      </a>
+    </td>
+    <td>
+      <a align="center" href="https://sacilave.github.io/">
+        <img height="180" src="https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api/top-langs/?username=sacilave&layout=compact&bg_color=1a1625&title_color=FFA3B4&text_color=FFDEEE&icon_color=FFA3B4&border_color=FFA3B4" alt="Sacilave's Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
