@@ -8,28 +8,36 @@
 </p>
 
 <p>
-<b>[ LANGUAGES ]</b><br>
-English <sup>(6/10)</sup> &nbsp;·&nbsp; 中文 <sup>(10/10)</sup> &nbsp;·&nbsp; 日本語 <sup>(1/100)</sup>
+  <b>[ LANGUAGES ]</b>
+</p>
+<p>
+  English <sup>(6/10)</sup> &nbsp;·&nbsp; 中文 <sup>(10/10)</sup> &nbsp;·&nbsp; 日本語 <sup>(1/100)</sup>
 </p>
 
 <p>
-<b>[ CORE STACK ]</b><br>
-<img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <b>[ CORE STACK ]</b>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
 </p>
 
 <p>
-<b>[ FAMILIAR ]</b><br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <b>[ FAMILIAR ]</b>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p>
-<b>[ TAGS ]</b><br>
-<code>Tech Otaku</code> <code>Cutie Lover</code> <code>Photography</code> <code>PC Gamer</code> <code>ACG</code> <code>INFP-T</code>
+  <b>[ TAGS ]</b>
+</p>
+<p>
+  <code>Tech Otaku</code> <code>Cutie Lover</code> <code>Photography</code> <code>PC Gamer</code> <code>ACG</code> <code>INFP-T</code>
 </p>
 
 
