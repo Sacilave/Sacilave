@@ -1,31 +1,35 @@
-<div align=center style="color: #FFDEEE; font-family: consolas;">
+<div align=center style="color: #FFDEEE; font-family: 'Zpix', Consolas, monospace;">
 
 
 <h2 align=center style="color: #FFA3B4">Welcome (=•ω＜=)⌒☆</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=FFA3B4&center=true&vCenter=true&width=500&lines=GameDev+%2F+Unity+%26+C%23+Developer;Flutter+App+%2F+Web+%2F+Product+%2F+VR;Tech+Otaku+%2F+Cutie+Lover;Feel+free+to+make+friends+with+me+(%C2%B4%E2%96%BD%EF%BD%80)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&pause=1000&color=FFA3B4&center=true&vCenter=true&width=500&lines=GameDev+%2F+Unity+%26+C%23+Developer;Flutter+App+%2F+Web+%2F+Product+%2F+VR;Tech+Otaku+%2F+Cutie+Lover;Feel+free+to+make+friends+with+me+(%C2%B4%E2%96%BD%EF%BD%80)" alt="Typing SVG" />
 </p>
 
 <p>
-Language : &nbsp; 𝗘𝗻𝗴𝗹𝗶𝘀𝗵(6/10) / 中文(10/10) / 日本語(1/100)
+<b>[ LANGUAGES ]</b><br>
+English <sup>(6/10)</sup> &nbsp;·&nbsp; 中文 <sup>(10/10)</sup> &nbsp;·&nbsp; 日本語 <sup>(1/100)</sup>
 </p>
 
 <p>
-Core Stack : &nbsp;
+<b>[ CORE STACK ]</b><br>
 <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
-<br>
-Familiar : &nbsp;
+</p>
+
+<p>
+<b>[ FAMILIAR ]</b><br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 <p>
-Tags : &nbsp; Tech Otaku / Cutie Lover / Photography / PC Gamer / ACG / INFP-T
+<b>[ TAGS ]</b><br>
+<code>Tech Otaku</code> <code>Cutie Lover</code> <code>Photography</code> <code>PC Gamer</code> <code>ACG</code> <code>INFP-T</code>
 </p>
 
 
