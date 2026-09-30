@@ -25,9 +25,9 @@ Feel free to make friends with me then (´▽｀)
 <h3 style="color: #FFA3B4">Other Social Links</h3>
 
 <div >
-  <a align=center href="https://blog.lave.fun" style="color: #E7B9ED">HOME</a>&emsp;&emsp;
-  <a align=center href="https://t.me/Evathef" style="color: #E7B9ED">TG</a>&emsp;&emsp;
-  <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">DC</a>&emsp;&emsp;
+  <a align=center href="https://blog.lave.fun" style="color: #E7B9ED">Blog</a>&emsp;&emsp;
+  <a align=center href="https://t.me/Evathef" style="color: #E7B9ED">Telegram</a>&emsp;&emsp;
+  <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">Discord</a>&emsp;&emsp;
   <a align=center href="https://www.twitch.tv/sacilave" style="color: #E7B9ED">Twitch</a>&emsp;&emsp;
   <a align=center href="https://steamcommunity.com/id/sacilave/" style="color: #E7B9ED">Steam</a>&emsp;&emsp;
   <a align=center href="https://x.com/Sacilave2" style="color: #E7B9ED">Twitter</a>&emsp;
