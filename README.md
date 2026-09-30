@@ -24,14 +24,13 @@ Feel free to make friends with me then (´▽｀)
 
 <h3 style="color: #FFA3B4">Other Social Links</h3>
 
-<div >
-  <a align=center href="https://blog.lave.fun" style="color: #E7B9ED">Blog</a>&emsp;&emsp;
-  <a align=center href="https://t.me/Evathef" style="color: #E7B9ED">Telegram</a>&emsp;&emsp;
-  <a align=center href="https://discord.com/users/711912036950474862" style="color: #E7B9ED">Discord</a>&emsp;&emsp;
-  <a align=center href="https://www.twitch.tv/sacilave" style="color: #E7B9ED">Twitch</a>&emsp;&emsp;
-  <a align=center href="https://steamcommunity.com/id/sacilave/" style="color: #E7B9ED">Steam</a>&emsp;&emsp;
-  <a align=center href="https://x.com/Sacilave2" style="color: #E7B9ED">Twitter</a>&emsp;
-</div>&emsp;&emsp;
+[![Blog](https://img.shields.io/badge/Blog-0E83CD?style=flat-square&logo=hexo&logoColor=white)](https://blog.lave.fun)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Evathef)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/711912036950474862)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/sacilave)
+[![Steam](https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/sacilave/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Sacilave2)
+[![Email](https://img.shields.io/badge/sacilave@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sacilave@gmail.com)
 
 <table align=center><tr>
 <td><a align="center" href="https://sacilave.github.io/"> <img height="180" src="https://github-readme-stats-git-master-sacilaves-projects.vercel.app/api?username=sacilave&show_icons=true&theme=radical" /> </div>
